@@ -19,6 +19,7 @@ Format: `- [Recipe Name](recipes/yourlastname.md) — one short phrase. *(Your N
 
 - [Veggie Buckle](recipes/evans.md) — vegetable loaded dish. *(Hali Evans)*
 
+- [Vegan Pumpkin Pasta with Sage](recipes/geer.md) — delicious creamy pasta dish. *(Maisie Geer)*
 
 ## Sides & Snacks
 
