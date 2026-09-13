@@ -21,6 +21,8 @@ Format: `- [Recipe Name](recipes/yourlastname.md) — one short phrase. *(Your N
 
 - [Veggie Buckle](recipes/evans.md) — vegetable loaded dish. *(Hali Evans)*
 
+- [Gyeran Bap](recipes/leggitt.md) — super easy Korean egg and rice dish *(John Leggitt)*
+
 
 ## Sides & Snacks
 
