@@ -15,6 +15,8 @@ Format: `- [Recipe Name](recipes/yourlastname.md) — one short phrase. *(Your N
 
 - [Bolognese Sauce](recipes/brown.md) — pasta sauce perfect for entertaining. *(Eric Brown)*
 
+- [Creamy Sausage Tortellini Soup](recipes/strong.md) - easy comfort soup for a rainy day. *(Makena Strong)*
+
 - [Roasted Butternut Squash Pasta](recipes/skrutvold.md) — perfect fall recipe when hosting. *(Aerionna Skrutvold)*
 
 - [Veggie Buckle](recipes/evans.md) — vegetable loaded dish. *(Hali Evans)*
