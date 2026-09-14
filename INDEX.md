@@ -15,11 +15,14 @@ Format: `- [Recipe Name](recipes/yourlastname.md) — one short phrase. *(Your N
 
 - [Bolognese Sauce](recipes/brown.md) — pasta sauce perfect for entertaining. *(Eric Brown)*
 
+- [Creamy Sausage Tortellini Soup](recipes/strong.md) - easy comfort soup for a rainy day. *(Makena Strong)*
+
 - [Roasted Butternut Squash Pasta](recipes/skrutvold.md) — perfect fall recipe when hosting. *(Aerionna Skrutvold)*
 
 - [Vegan Pumpkin Pasta with Sage](recipes/geer.md) — delicious creamy pasta dish. *(Maisie Geer)*
 
-- [Veggie Buckle](recipes/evans.md) — vegetable loaded dish. *(Hali Evans)*
+- [Gyeran Bap](recipes/leggitt.md) — super easy Korean egg and rice dish *(John Leggitt)*
+
 
 ## Sides & Snacks
 
